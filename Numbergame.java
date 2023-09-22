@@ -1,5 +1,5 @@
 import java.util.Scanner;
- class A {
+ class Numbergame {
 	public static void main(String[] args)
 	{
 		int a=67;   //given number
