@@ -41,6 +41,8 @@ import java.util.Scanner;
 			}
 			else {
 				System.out.println("Your score:"+score);
+				System.out.println("Thank you for your participation");
+				System.out.println("Thank you for your participation");
 				
 			}	
 				
